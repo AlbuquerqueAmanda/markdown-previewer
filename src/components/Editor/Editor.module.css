@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
+.editor {
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header h1 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Caveat Brush', cursive;
+    color: #ef86af;
+}
+
+label {
+    margin: 10px;
+    font-family: 'Caveat Brush', cursive;
+    padding: 10px;
+    font-size: 30px;
+    color: #ef86af;
+    border: 3px solid #ef86af;
+    border-radius: 5px;
+}
+
+textarea {
+    width: 40em;
+    height: 15em;
+}
+
+header {
+    margin-top: -80px;
+    background-color: #ebdcda;
+    width: 100vw;
+    height: 80px;
+}
+
+footer {
+    background-color: #ebdcda;
+    width: 100vw;
+    height: 50px;
+}
