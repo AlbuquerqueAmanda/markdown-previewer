@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# Markdown Previewer `eng`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple website that allows users to type Markdown syntax in a text box and instantly see the formatted output. This project was developed to practice rendering Markdown content in real-time.
 
-## Available Scripts
+## Objective
 
-In the project directory, you can run:
+The main goal of this project is to create a user-friendly interface where users can input Markdown text and view the formatted result without delay. It aims to provide a seamless experience for writing and previewing Markdown content.
 
-### `npm start`
+## Technologies
+- JavaScript
+- React: Utilized for creating the user interface and updating the preview in real-time.
+  
+## Roadmap 
+This project is under continuous improvement. Below are some planned enhancements for future versions:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Implement live Markdown syntax highlighting for better readability.
+- Add the ability to save or download the formatted Markdown content.
+- Enhance the user interface for better usability and aesthetics.
+- Support additional Markdown extensions or features.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## How to Run the Project
+1. Clone this repository.
+2. Install dependencies using `npm install`.
+3. Start the application with `npm start`.
 
-### `npm test`
+## Contribution 📌
+Contributions are welcomed! Feel free to open issues or send pull requests for enhancements or bug fixes.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+***
+***
 
-### `npm run build`
+# Markdown Previewer `pt-br`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Um site simples que permite aos usuários digitar sintaxe Markdown em uma caixa de texto e ver imediatamente o resultado formatado. Este projeto foi desenvolvido para praticar a renderização de conteúdo Markdown em tempo real.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Objetivo 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+O principal objetivo deste projeto é criar uma interface amigável onde os usuários possam inserir texto em Markdown e visualizar o resultado formatado sem atrasos. Ele visa oferecer uma experiência fluida para escrever e visualizar conteúdo em Markdown.
 
-### `npm run eject`
+## Tecnologias 
+- JavaScript
+- React: Utilizado para criar a interface do usuário e atualizar a visualização em tempo real.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Roadmap 
+Este projeto está em constante evolução. Abaixo estão algumas melhorias planejadas para versões futuras:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Implementar destaque de sintaxe Markdown em tempo real para melhor legibilidade.
+- Adicionar a capacidade de salvar ou baixar o conteúdo Markdown formatado.
+- Suportar extensões ou funcionalidades adicionais do Markdown.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Como executar o projeto 
+1. Clone este repositório.
+2. Instale as dependências usando `npm install`.
+3. Inicie o aplicativo com `npm start`.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Contribuição 📌
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar pull requests para melhorias.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
