@@ -9,6 +9,8 @@ The main goal of this project is to create a user-friendly interface where users
 ## Technologies
 - JavaScript
 - React: Utilized for creating the user interface and updating the preview in real-time.
+- HTML
+- CSS
   
 ## Roadmap 
 This project is under continuous improvement. Below are some planned enhancements for future versions:
@@ -40,6 +42,8 @@ O principal objetivo deste projeto é criar uma interface amigável onde os usu�
 ## Tecnologias 
 - JavaScript
 - React: Utilizado para criar a interface do usuário e atualizar a visualização em tempo real.
+- HTML
+- CSS
 
 ## Roadmap 
 Este projeto está em constante evolução. Abaixo estão algumas melhorias planejadas para versões futuras:
